@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProjetoTesteUnitarioNewTalents\Calculadora.csproj" />
+    <ProjectReference Include="..\Calculadora.csproj" />
   </ItemGroup>
 
 </Project>
